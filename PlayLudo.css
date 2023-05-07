@@ -1,0 +1,83 @@
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    border: 5px solid orange;
+    position: relative;
+  }
+  
+  .quadrant {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+    position: relative;
+  }
+  
+  .blue {
+    background-color: #0080ff;
+  }
+  
+  .yellow {
+    background-color: #ffff00;
+  }
+  
+  .red {
+    background-color: #ff0000;
+  }
+  
+  .green {
+    background-color: #00ff00;
+  }
+  
+  .column {
+    width: 90px;
+    height: 90px;
+    border: 5px solid white;
+  }
+  
+  .tokens {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 600px;
+    height: 600px;
+  }
+  
+  .token {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+  }
+  
+  .blue-token {
+    background-color: #0080ff;
+  }
+  
+  .yellow-token {
+    background-color: #ffff00;
+  }
+  
+  .red-token {
+    background-color: #ff0000;
+  }
+  
+  .green-token {
+    background-color: #00ff00;
+  }
+  
+  .dice {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 5px solid white;
+    background-color: orange;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    
+  }

@@ -1,0 +1,72 @@
+#my-account {
+	padding: 100px 0;
+	background-color: #f2f2f2;
+}
+
+.account-info {
+	display: flex;
+	align-items: center;
+	margin-bottom: 50px;
+}
+
+.profile-pic {
+	margin-right: 50px;
+}
+
+.profile-pic img {
+	border-radius: 50%;
+}
+
+.profile-pic button, .user-info button {
+	background-color: #ff6600;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.profile-pic button:hover, .user-info button:hover {
+	background-color: #e55b00;
+}
+
+.user-info h3 {
+	margin-top: 0;
+}
+
+.my-teams, .my-leagues {
+	margin-top: 50px;
+}
+
+.my-teams h3, .my-leagues h3 {
+	margin-top: 0;
+}
+
+.my-teams ul, .my-leagues ul {
+	list-style: none;
+	padding: 0;
+	margin-bottom: 30px;
+}
+
+.my-teams ul li, .my-leagues ul li {
+	margin-bottom: 10px;
+}
+
+.my-teams ul li a, .my-leagues ul li a {
+	color: #333;
+	text-decoration: none;
+}
+
+.btn-primary {
+	background-color: #ff6600;
+	color: #fff;
+	padding: 15px 30px;
+	border-radius: 5px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.btn-primary:hover {
+	background-color: #e55b00;
+}
