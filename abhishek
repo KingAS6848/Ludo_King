@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="28">
+            <File firstVisibleLine="184" xOffset="0" scrollWidth="1" startPos="3119" endPos="6769" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="E:\ANKIT\Shopify-Optimization\myfile.txt" backupFilePath="C:\Users\comp40\AppData\Roaming\Notepad++\backup\myfile.txt@2023-06-15_161301" originalFileLastModifTimestamp="1722376707" originalFileLastModifTimestampHigh="31034924" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no">
+                <Mark line="218" />
+                <Mark line="376" />
+            </File>
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="3881904" startPos="5125" endPos="5038" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\comp40\Documents\dt4.txt" backupFilePath="C:\Users\comp40\AppData\Roaming\Notepad++\backup\dt4.txt@2022-05-19_102001" originalFileLastModifTimestamp="1016121807" originalFileLastModifTimestampHigh="30960316" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no">
+                <Mark line="111" />
+            </File>
+            <File firstVisibleLine="268" xOffset="0" scrollWidth="12808" startPos="215326" endPos="215326" selMode="0" offset="0" wrapCount="1" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="E:\ANKIT\cmcgold\cmcgold.txt" backupFilePath="" originalFileLastModifTimestamp="1880319234" originalFileLastModifTimestampHigh="30954658" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="46" xOffset="0" scrollWidth="2080" startPos="2860" endPos="2860" selMode="0" offset="0" wrapCount="2" lang="None (Normal Text)" encoding="-1" userReadOnly="no" filename="C:\Users\comp40\Documents\2223223.txt" backupFilePath="" originalFileLastModifTimestamp="1820496938" originalFileLastModifTimestampHigh="31099470" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1139802112" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
